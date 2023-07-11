@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shankar-Anumula
-- 👀 I’m an Automation QA Engineer, also a Data Engineering and Blockchain enthusiast
+- 👀 I’m an Automation QA Engineer, and a Data Engineering enthusiast
 - 🌱 I’m currently learning Big Data Analytics
 - 💞️ I’m looking to collaborate on remote QA - manual and automation projects 
 - 📫 How to reach me ... anumulashankar@gmail.com
