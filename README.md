@@ -2,7 +2,7 @@
 👀 I’m an Automation QA Engineer, and a Data Engineering enthusiast </br>
 🌱 I’m currently learning Big Data Analytics </br>
 💞️ I’m looking to collaborate on remote QA - manual and automation projects  </br>
-📫 How to reach me ... anumulashankar@gmail.com </br>
+📫 Please reach me @ ... anumulashankar@gmail.com </br>
 
 <!---
 Shankar-Anumula/Shankar-Anumula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
