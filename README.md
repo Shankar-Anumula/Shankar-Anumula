@@ -1,5 +1,5 @@
 👋 Hi, I’m @Shankar-Anumula </br>
-👀 I’m an experienced Software Engineer with handson in Data Engineering </br>
+👀 I have over 11 years experience in Software Development with handson in Data Engineering </br>
 🌱 Skills - Java, SQL, Scala, Big Data - Hadoop, Sqoop, Spark, Spark Streaming, Kafka and AWS</br>
 💞️ I’m looking to collaborate on remote projects and any Full-Time projects</br>
 📫 Please reach me @ ... shankar.anumula08@gmail.com </br>
