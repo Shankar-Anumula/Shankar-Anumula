@@ -1,6 +1,6 @@
 👋 Hi, I’m @Shankar-Anumula 
 
-🌟 Data Professional | Passionate about Data Integrity & Optimization
+🌟 Data Professional | Passionate about Data Integrity & Optimization </br>
 With over 12 years of IT experience, I specialize in designing and building data solutions for the Insurance and Financial Capital Markets. I excel in leading technology teams and fostering collaboration to drive innovation.
 
 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: </br>
