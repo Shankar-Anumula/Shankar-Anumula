@@ -1,6 +1,6 @@
 👋 Hi, I’m @Shankar-Anumula. Data Professional | Passionate about Data Integrity & Optimization </br>
 </br>
-With over 12 years of IT experience, I specialize in designing and building data solutions for the Insurance and Financial Capital Markets. I excel in leading technology teams and fostering collaboration to drive innovation.
+With over 13 years of IT experience, I specialize in designing and building data solutions for the Insurance and Financial Capital Markets. I excel in leading technology teams and fostering collaboration to drive innovation.
 
 𝗖𝗼𝗿𝗲 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: </br>
  🖥️ 𝗕𝗶𝗴 𝗗𝗮𝘁𝗮 𝗘𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺: Apache Spark Core & APIs - RDD, Dataframe, Dataset, Spark SQL, HDFS, YARN, Hive, Scala </br> 
