@@ -1,1 +1,1 @@
-A seasoned Lead Consultant (VP) at Wells Fargo with over 13 years of experience in software development and quality assurance, specializing in test automation, CI/CD, and leading global Agile teams in the BFSI domain.
+A seasoned Lead Consultant (VP) at Wells Fargo with over 14 years of IT experience.
